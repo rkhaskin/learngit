@@ -1,0 +1,8 @@
+some text
+more text
+
+thisrd and fourth line
+
+new commit
+
+third change
